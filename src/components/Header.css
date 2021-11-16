@@ -1,0 +1,7 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: sandybrown;
+    color: rgb(7, 80, 7);
+}
